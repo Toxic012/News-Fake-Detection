@@ -1,0 +1,6 @@
+{
+  "name": "TruthCode",
+  "description": "AI-Powered News Authenticity Verification and Tamper Detection Platform",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
